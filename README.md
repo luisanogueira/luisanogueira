@@ -3,12 +3,13 @@ Hello! 😄
 I am Luísa, a brazilian / portuguese front-end developer who loves to work with CSS, JavaScript and React.js!
 I am also loving UX Design more and more each day, and intend to specialize in this area once I have more experience.
 
-I am currently working at Workflow EDV in Vienna, Austria. I also am halfway through the CS50x online course, from Harvard.
-I came here for a bootcamp in full-stack web development but after the bootcamp I got this job and decided to stay in this amazing city!
+I've been living in Europe for five years. I studied in Coimbra, Portugal and later moved to Lisbon and worked with marketing.
+Since I wanted to have a new adventure and new experiences, I came to Austria for a bootcamp in full-stack web development. 
+After the bootcamp I got a job at an IT company and decided to stay in the amazing city of Vienna!
 I can't imagine a better home for me.
 
-Starting from september 2020, I will finish my contract at Workflow and am open for new working opportunities in Vienna!
-It has been a great experience so far, but I am ready for this new phase in my life.
+I recently finished my contract and started looking for new working opportunities in Vienna, as well as working on some personal projects.
+It has been a great experience so far.
 
 What I am looking for?
 - To collaborate on open source projects so I can learn more and help in any way I can, either solving bugs or improving different aspects of the project.
