@@ -8,9 +8,6 @@ Since I wanted to have a new adventure and new experiences, I came to Austria fo
 After the bootcamp I got a job at an IT company and decided to stay in the amazing city of Vienna!
 I can't imagine a better home for me.
 
-I recently finished my contract and started looking for new working opportunities in Vienna, as well as working on some personal projects.
-It has been a great experience so far.
-
 What I am looking for?
 - To collaborate on open source projects so I can learn more and help in any way I can, either solving bugs or improving different aspects of the project.
 - To meet other developers living in Austria or around Europe and get in touch, have a coffee, share knowledge.
