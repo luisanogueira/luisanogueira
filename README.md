@@ -1,19 +1,8 @@
 Hello! 😄
 
-I am Luísa, a brazilian / portuguese front-end developer who loves to work with CSS, JavaScript and React.js.
-I also like to be involved in the UX/UI Design process, and have a working experience with Figma.
+I am a front-end developer and visual designer with six years of experience building and improving websites and apps using different technologies and collaborating with engineering teams, product owners and visual and UX designers. I worked many years with javascript, typescript and CSS languages, using libraries such as React, Node.js and Next.js. I also have a good working experience with Figma, both as a developer working with interaction and visual designers and creating my own visual designs.
 
-I've been living in Europe since end of 2015. I studied in Coimbra, Portugal and later moved to Lisbon and worked with marketing.
-Since I wanted to have a new adventure and new experiences, I came to Austria for a bootcamp in full-stack web development. 
-I have been working as a front-end developer since the beginning of 2019 and intend to continue down this path, while also working with design.
+My greatest strength is conveying the brand message through visual aesthetic while writing clean and efficient code. I am also dedicated to enhance applications' style and user experience during interactions. I have a talent for public speaking and documenting projects in a clear yet concise way.
 
-What I am looking for?
-- To collaborate on open source projects so I can learn more and help in any way I can, either solving bugs or improving different aspects of the project.
-- To meet other developers living in Austria or around Europe and get in touch, have a coffee, share knowledge.
-- To keep track of my own progress in different projects I will work on.
-- Learn more every day.
-
-Cheers!
-
-
+I am passionate about advocating for workplace equality for women from all backgrounds and committed to developing innovative products that support this mission. I hold values of integrity, courage, and empathy at the forefront of my work. Finally, I am driven by curiosity to continuously learn, refine my skills and explore new ideas and tools.
 
